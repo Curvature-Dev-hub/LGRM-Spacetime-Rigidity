@@ -1,17 +1,31 @@
 # Local Geometric Resonance Manifold (LGRM)
+**Field Theory of Spacetime Rigidity & Energy Transmission**
 
-This repository contains the full theoretical framework and numerical validation for the LGRM model, which proposes "Substantial Spacetime" as a rigid continuum to explain galactic rotation curves without the need for Dark Matter.
+This repository contains the official LaTeX source code and pre-print PDF for the LGRM framework, which proposes a "Substantial Spacetime" model to explain galactic rotation curves without Dark Matter.
 
-## Theoretical Core
-- **Substantial Spacetime**: Postulating spacetime as a physical medium with intrinsic rigidity ($\Gamma$).
-- **Core Vorticity Engine**: The galactic center acts as a power source transmitting kinetic energy.
-- **Whip Effect**: Dynamic energy conduction through the spacetime medium.
+## 🌌 Core Concepts
+- **Substantial Spacetime**: Spacetime as a physical rigid medium with a fundamental constant $\Gamma = 4.2501638 \times 10^{15} m^2/s$.
+- **Core Vorticity Engine**: The galactic center acts as a primary power source.
+- **Whip Effect**: Kinetic energy is transmitted from the core to the disk edge through spacetime rigidity, regulated by $\tanh(L/L_H)$.
 
-## Key Results
-- **Milky Way Residual**: -6.6 km/s
-- **Andromeda (M31) Residual**: -36 km/s
+## 📊 Key Validation Results
+Our model shows high consistency with observational data without artificial parameter tuning:
+* **Milky Way Residual**: -6.6 km/s
+* **Andromeda (M31) Residual**: -36 km/s
 
-## AI Computational Protocol
-Numerical validations were performed using **Gemini 1.5 Pro (Paid Tier)** under a strict **Non-Compliance Mode** to ensure data integrity and prevent artificial curve-fitting.
 
+
+## 🤖 AI Computational Protocol
+The numerical validation of the LGRM field equations was facilitated by **Gemini 1.5 Pro (Paid Tier)**. 
+- **Protocol**: Strict **"Non-Compliance Mode"**.
+- **Constraint**: No data smoothing or artificial curve-fitting was allowed.
+- **Responsibility**: All reported residuals are direct raw outputs from the AI computational agency.
+
+## 📄 Files
+- `main.tex`: Full LaTeX source code.
+- `LGRM_Paper_Full.pdf`: Formal pre-print.
+- `LICENSE`: MIT Open Source License.
+
+---
+*Developed by CHIANG W C - Independent Researcher.*
 **Contact:** substantial.st.office@gmail.com
