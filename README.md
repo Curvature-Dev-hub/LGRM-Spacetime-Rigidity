@@ -27,5 +27,5 @@ The numerical validation of the LGRM field equations was facilitated by **Gemini
 - `LICENSE`: MIT Open Source License.
 
 ---
-*Developed by CHIANG W C - Independent Researcher.*
+*Developed by CHIANG W C *
 **Contact:** substantial.st.office@gmail.com
