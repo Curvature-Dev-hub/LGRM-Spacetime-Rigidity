@@ -13,3 +13,4 @@ This repository contains the full theoretical framework and numerical validation
 
 ## AI Computational Protocol
 Numerical validations were performed using **Gemini 1.5 Pro (Paid Tier)** under a strict **Non-Compliance Mode** to ensure data integrity and prevent artificial curve-fitting.
+**Contact:** substantial.st.office@gmail.com
