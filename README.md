@@ -12,7 +12,11 @@ This repository contains the official LaTeX source code and pre-print PDF for th
 Our model shows high consistency with observational data without artificial parameter tuning:
 * **Milky Way Residual**: -6.6 km/s
 * **Andromeda (M31) Residual**: -36 km/s
-**Note:** $L=R$ (local radius) where spacetime viscosity ($\nu_s = 4.25 \times 10^{15}$) drives the disk via layer-by-layer momentum transfer, with -6.6 km/s as a stable viscous slip.
+
+
+**Note:** $L$ is defined as $R$ (the radial observation point), representing the dynamic lever arm of spacetime torque transmission.
+
+  
   
 
 
