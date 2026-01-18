@@ -7,6 +7,9 @@ This repository contains the official LaTeX source code and pre-print PDF for th
 - **Substantial Spacetime**: Spacetime as a physical rigid medium with a fundamental constant $\Gamma = 4.2501638 \times 10^{15} m^2/s$.
 - **Core Vorticity Engine**: The galactic center acts as a primary power source.
 - **Whip Effect**: Kinetic energy is transmitted from the core to the disk edge through spacetime rigidity, regulated by $\tanh(L/L_H)$.
+- Note: 
+L is defined as R
+ (the radial observation point), representing the dynamic lever arm of spacetime torque transmission.
 
 ## 📊 Key Validation Results
 Our model shows high consistency with observational data without artificial parameter tuning:
@@ -14,7 +17,7 @@ Our model shows high consistency with observational data without artificial para
 * **Andromeda (M31) Residual**: -36 km/s
 
 
-**Note:** $L$ is defined as $R$ (the radial observation point), representing the dynamic lever arm of spacetime torque transmission.
+
 
   
   
