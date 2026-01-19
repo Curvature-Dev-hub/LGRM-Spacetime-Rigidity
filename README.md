@@ -36,7 +36,7 @@ This repository provides the numerical validation for the **LGRM Theory**, provi
 ### 🚀 Live Numerical Lab (Google Colab)
 You can verify the LGRM field equations and the **-6.6 km/s residual** directly in your browser:
 
-👉 **[Execute LGRM Validation Lab](https://colab.research.google.com/drive/1VfQDWT8By7TGpWK_YEE6T5mNPvktakOQ?usp=sharing)**
+👉 **[Execute LGRM Validation Lab](https://colab.research.google.com/drive/1abf9-NbSlf4RwJh3oJj7DgFeh6yhu-4b?usp=sharing)**
 
 ---
 
