@@ -20,18 +20,18 @@ Our model demonstrates that anomalous galactic rotation is a geometric manifesta
 
 | Target Galaxy | Geometric Feature | LGRM Residual (Phase-Aligned) |
 | :--- | :--- | :--- |
-| **Milky Way** | Reverse Stress | [cite_start]**$-6.6$ km/s** (at 8.2 kpc) [cite: 16, 70, 84] |
-| **Andromeda (M31)** | Optimized Coupling | **$-4.8$ km/s** (at 15.4 kpc) |
+| **Milky Way** | Reverse Stress | [cite_start]**$-6.6$ km/s**  |
+| **Andromeda (M31)** | Optimized Coupling | **$-4.8$ km/s** |
 
 ---
 
 ## 🤖 AI Computational Protocol
 
-[cite_start]The numerical validation of the LGRM field equations was facilitated by **Gemini 1.5 Pro (Paid Tier)**[cite: 23, 79, 80].
+The numerical validation of the LGRM field equations was facilitated by **Gemini 1.5 Pro (Paid Tier)**.
 
-* [cite_start]**Protocol:** Strict **"Non-Compliance Mode"**[cite: 23, 80].
-* [cite_start]**Constraints:** **No data smoothing** or artificial curve-fitting was permitted[cite: 24, 82].
-* [cite_start]**Responsibility:** All reported residuals are direct, raw outputs from the AI computational agency, ensuring 100% alignment with the LGRM mathematical framework[cite: 26, 84].
+* **Protocol:** Strict **"Non-Compliance Mode"**[cite: 23, 80].
+* **Constraints:** **No data smoothing** or artificial curve-fitting was permitted[cite: 24, 82].
+* **Responsibility:** All reported residuals are direct, raw outputs from the AI computational agency, ensuring 100% alignment with the LGRM mathematical framework[cite: 26, 84].
 
 ---
 
