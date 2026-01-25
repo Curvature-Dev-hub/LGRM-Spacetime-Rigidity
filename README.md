@@ -16,11 +16,11 @@ This repository contains the official LaTeX source code and pre-print PDF for th
 
 ## 📊 Key Validation Results
 
-Our model demonstrates that anomalous galactic rotation is a geometric manifestation of the 370 km/s background flow projection. [cite_start]After applying **Attack Angle Correction ($\theta$)**, the residuals show near-perfect alignment[cite: 16, 17, 70, 71]:
+Our model demonstrates that anomalous galactic rotation is a geometric manifestation of the 370 km/s background flow projection. [cite_start]After applying **Attack Angle Correction ($\theta$)**, the residuals show near-perfect alignment:
 
 | Target Galaxy | Geometric Feature | LGRM Residual (Phase-Aligned) |
 | :--- | :--- | :--- |
-| **Milky Way** | Reverse Stress | [cite_start]**$-6.6$ km/s**  |
+| **Milky Way** | Reverse Stress | **$-6.6$ km/s**  |
 | **Andromeda (M31)** | Optimized Coupling | **$-4.8$ km/s** |
 
 ---
