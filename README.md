@@ -31,7 +31,7 @@ The numerical validation of the LGRM field equations was facilitated by **Gemini
 
 * **Protocol:** Strict **"Non-Compliance Mode"**.
 * **Constraints:** **No data smoothing** or artificial curve-fitting was permitted.
-* **Responsibility:** All reported residuals are direct, raw outputs from the AI computational agency, ensuring 100% alignment with the LGRM mathematical framework[cite: 26, 84].
+* **Responsibility:** All reported residuals are direct, raw outputs from the AI computational agency, ensuring 100% alignment with the LGRM mathematical framework.
 
 ---
 
