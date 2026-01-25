@@ -5,10 +5,10 @@ This repository contains the official LaTeX source code and pre-print PDF for th
 
 ## 🌌 Core Concepts
 
-* **Substantial Spacetime:** Spacetime is defined as a physical rigid medium governed by the fundamental constant **$\Gamma = 4.2501638 \times 10^{15} \, \text{m}^{2}/\text{s}$**[cite: 6, 40].
+* **Substantial Spacetime:** Spacetime is defined as a physical rigid medium governed by the fundamental constant **$\Gamma = 4.2501638 \times 10^{15} \, \text{m}^{2}/\text{s}$**.
 * **Universal Kinetic Background (The Power Source):** We identify a global kinetic vector field $|\vec{V}_{bg}| \equiv 370 \text{ km/s}$ (aligned with the **CMB Dipole**) as the primary energy source for galactic rotation.
 * **Phase Coupling & Energy Internalization:** Galactic manifolds internalize this 370 km/s background flow into tangential rotational momentum via the **Phase Coupling Operator ($\hat{\Phi}$)**. This mechanism accounts for **100% of the kinetic energy gap** traditionally attributed to dark matter.
-* **Core Vorticity Engine & Whip Effect:** Kinetic energy is transmitted from the core to the disk edge through spacetime rigidity, regulated by the scale-normalization operator $\tanh(L/L_{H})$[cite: 9, 46, 63].
+* **Core Vorticity Engine & Whip Effect:** Kinetic energy is transmitted from the core to the disk edge through spacetime rigidity, regulated by the scale-normalization operator $\tanh(L/L_{H})$.
 
 > **⚠️ Critical Calculation Note:** In the LGRM field equations, the length parameter **$L$ is defined as the dynamic radial distance ($L \equiv R$)** of the specific observation point. Using the total galactic radius for $L$ will result in incorrect, hyper-accelerated velocity values. $L$ represents the *instantaneous lever arm* of the spacetime torque transmission.
 
